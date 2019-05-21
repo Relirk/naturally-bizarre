@@ -1,12 +1,8 @@
-### Naturally Bizarre
+# Naturally Bizarre
 
-<!-- [![JS Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
- -->
-[![MIT License](https://img.shields.io/badge/license-mit-blue.svg)](LICENSE)
+[![JS Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
+[![MIT License](https://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](LICENSE)
 
-### Projeto em estrutura node.js
-### HTML buildado em Jade + Javascript code
-### Tasks monitoradas com o gulp
+Experiments based in the series [The Nature of Code](http://natureofcode.com/) by [Daniel Shiffman](http://shiffman.net/).
 
-
-
+Project based on work of [lhbzr](https://github.com/lhbzr)
