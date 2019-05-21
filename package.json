@@ -4,7 +4,7 @@
   "description": "Experiments made by Francisco José Olvera Junior based on the series The Nature of Code by Daniel Shiffman.",
   "author": "Francisco José Olvera Junior",
   "license": "MIT",
-  "homepage": "https://github.com/Relirk/naturally-bizarre",
+  "homepage": "https://github.com/Relirk/naturally-bizarre.git",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev webpack-dev-server --progress --config webpack.dev.js",
     "build": "webpack -p --progress --config webpack.build.js"
