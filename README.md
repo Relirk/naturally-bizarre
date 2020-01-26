@@ -6,3 +6,7 @@
 Outdated - Experiments based in the series [The Nature of Code](http://natureofcode.com/) by [Daniel Shiffman](http://shiffman.net/).
 
 Project based on work of [lhbzr](https://github.com/lhbzr)
+
+![Demo1](naturally-bizarre-1.png)
+
+![Demo2](naturally-bizarre-2.png)
