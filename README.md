@@ -1,6 +1,6 @@
 # Naturally Bizarre
 
-* Project based on work of [lhbzr](https://github.com/lhbzr)
+* Project based on work of [lhbzr](https://github.com/bizarro/)
 * Outdated - Experiments based in the series [The Nature of Code](http://natureofcode.com/) by [Daniel Shiffman](http://shiffman.net/).
 
 [![JS Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
